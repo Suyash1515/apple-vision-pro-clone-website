@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"pag",
+				"page1-content"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"sp",
+				"space-evenly"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"p",
+				"page5"
+			],
+			[
+				"pa",
+				"page4"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"mab",
+				"margin-bottom"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"de",
+				"dets"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"mouse",
+				"onmouseover"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"ft",
+				"ftext"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pic",
+				"picimg"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"r",
+				"red"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tar",
+				"transform"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"her",
+				"hero-right"
+			],
+			[
+				"he",
+				"hero-right"
+			],
+			[
+				"HER",
+				"hero-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lo",
+				"locomotiveAnimation"
+			],
+			[
+				"n",
+				"nav-part1"
+			],
+			[
+				"na",
+				"nav-part2"
+			],
+			[
+				"bl",
+				"burlywood"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"ho",
+				"home-last"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"H",
+				"h3"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ora",
+				"orangered"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"opacity",
+				"style_opacity"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"overflo",
+				"overflow-x"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"elem",
+				"elemImage"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"setTime",
+				"setTimeout"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"cor",
+				"cornflowerblue"
+			],
+			[
+				"setT",
+				"setTimeout"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"mer",
+				"mergeHead"
+			],
+			[
+				"sc",
+				"scroller"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"scr",
+				"ScrollTrigger"
+			],
+			[
+				"opaci",
+				"opacity"
+			],
+			[
+				"GR",
+				"greenyellow"
+			],
+			[
+				"spa",
+				"space-evenly"
+			],
+			[
+				"anim",
+				"animation-iteration-count"
+			],
+			[
+				"overf",
+				"overflow-y"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"lim",
+				"limegreen"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"backgroundC",
+				"backgroundColor"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"background",
+				"backgroundColor"
+			],
+			[
+				"rec",
+				"rectanglelocation"
+			],
+			[
+				"mousemo",
+				"onmousemove"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"init -",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/Web Development projects/rejouice website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/rejouice website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/rejouice website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/animated website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/animated website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/animated website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/modern website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/modern website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/modern website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/Two good.co website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/Two good.co website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/Two good.co website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/kuborto.com website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/kuborto.com website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/kuborto.com website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/bubble game/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/bubble game/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/bubble game/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/cynthia ugwu website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/cynthia ugwu website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/cynthia ugwu website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/cynthia ugwu website/loco.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/Duo Studio website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/Duo Studio website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/Duo Studio website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/miranda website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/miranda website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/miranda website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page with gsap/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page with gsap/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/landing page with gsap/index.html",
+		"/C/Users/Administrator/Desktop/javascript/ES6_JS.js",
+		"/C/Users/Administrator/Desktop/javascript/ES6_JS.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Story Feature/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Story Feature/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Story Feature/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Multiple Image hovering Animation/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Multiple Image hovering Animation/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Multiple Image hovering Animation/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Custom Cursor/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Custom Cursor/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Custom Cursor/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Like button/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Like button/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Insta Like button/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Add friend feature with same button/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Add friend feature with same button/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/DOM Projects/Add friend feature with same button/index.html",
+		"/C/Users/Administrator/Desktop/javascript/DOM.js",
+		"/C/Users/Administrator/Desktop/javascript/DOM.css",
+		"/C/Users/Administrator/Desktop/javascript/DOM.html",
+		"/C/Users/Administrator/Desktop/javascript/AsyncJS.js",
+		"/C/Users/Administrator/Desktop/javascript/AsyncJS.html",
+		"/C/Users/Administrator/Desktop/javascript/Advanced_JS.js",
+		"/C/Users/Administrator/Desktop/javascript/Advanced_JS.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/apple vision pro clone website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/apple vision pro clone website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/apple vision pro clone website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/real estate website/script.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/real estate website/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/real estate website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/golf website/app.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/golf website/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/golf website/style.css",
+		"/C/Users/Administrator/Desktop/javascript/JS_advanced.js",
+		"/C/Users/Administrator/Desktop/javascript/JS_advanced.html",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac3.html",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac3.css",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac3.js",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac2.html",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac2.css",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac2.js",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac1.js",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac1.css",
+		"/C/Users/Administrator/Desktop/javascript/JS_Prac1.html",
+		"/C/Users/Administrator/Desktop/javascript/JS7_days.js",
+		"/C/Users/Administrator/Desktop/javascript/JS7_days.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/currency convertor/app.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/currency convertor/codes.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/currency convertor/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/currency convertor/index.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 11.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 11.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 10.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 10.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 9.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 9.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/Stone Paper Scissor/app.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/Stone Paper Scissor/style.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/Stone Paper Scissor/index.html",
+		"/C/Users/Administrator/Desktop/Web Development projects/app1.js",
+		"/C/Users/Administrator/Desktop/Web Development projects/style1.css",
+		"/C/Users/Administrator/Desktop/Web Development projects/index1.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 8.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 8.css",
+		"/C/Users/Administrator/Desktop/javascript/chapter 8.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 7.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 7.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 6.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 6.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 5.html",
+		"/C/Users/Administrator/Desktop/javascript/chapter 5.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 4.js",
+		"/C/Users/Administrator/Desktop/javascript/chapter 4.html",
+		"/C/Users/Administrator/Desktop/javascript/third.js",
+		"/C/Users/Administrator/Desktop/javascript/third.html",
+		"/C/Users/Administrator/Desktop/javascript/second.js",
+		"/C/Users/Administrator/Desktop/javascript/second.html",
+		"/C/Users/Administrator/Desktop/javascript/first.js",
+		"/C/Users/Administrator/Desktop/javascript/first.html",
+		"/C/Users/Administrator/Desktop/html css projects/first.js",
+		"/C/Users/Administrator/Desktop/html css projects/first.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/User/JavaScript.sublime-build",
+		"/C/Users/Administrator/Desktop/html css projects/restaurant_website.html",
+		"/C/Users/Administrator/Desktop/html css projects/parallaxWebsite.html",
+		"/C/Users/Administrator/Desktop/html css projects/landing_page.html",
+		"/C/Users/Administrator/Desktop/html css projects/Youtube_clone.html",
+		"/C/Users/Administrator/Desktop/html css projects/portfolioWebsite.html",
+		"/C/Users/Administrator/Desktop/html css projects/blog_websiteHomePage.html",
+		"/C/Users/Administrator/Desktop/html css projects/developer_landingPage.html",
+		"/C/Users/Administrator/Desktop/html css projects/google_Homepage.html",
+		"/C/Users/Administrator/Desktop/html css projects/Netflix_cloneWithTailwind.html",
+		"/C/Users/Administrator/Desktop/tailwind css/spanningRows.html",
+		"/C/Users/Administrator/Desktop/tailwind css/Grid_templateRows.html",
+		"/C/Users/Administrator/Desktop/tailwind css/grid_column.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
